@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "101052595733",
+    "project_id": "byta-fintech-2023",
+    "storage_bucket": "byta-fintech-2023.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101052595733:android:07f40606421b83a231981c",
+        "android_client_info": {
+          "package_name": "com.byta.fintech.byta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "101052595733-2rd9dojg0vgu07s9qbnvce5929us44pe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU7yHqSF_t_C8ONw0-tzY-oB9ifEkUZOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "101052595733-2rd9dojg0vgu07s9qbnvce5929us44pe.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "101052595733-ehv7sbbcb9m8jrphivrnapm85dpl54um.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.byta.fintech.byta"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
